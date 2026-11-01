@@ -115,7 +115,7 @@ The main objective of this project is to improve my C programming fundamentals t
 BCA 1st Year  
 PSIT College of Higher Education
 
-- GitHub: [My GitHub Profile](https://github.com/Jitendrasharma209401-jpg)
+- GitHub: [My GitHub Profile]https://github.com/JitendraKumarDev
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/jitendra-kumar-4109bb3b0/)
 
 ---
